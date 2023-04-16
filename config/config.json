@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "hafisasari101201",
+    "database": "database_cars",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "hafisasari101201",
+    "database": "database_cars",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "hafisasari101201",
+    "database": "database_cars",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
